@@ -25,10 +25,12 @@
 <p align="center">
     <a href="https://www.cursoemvideo.com/cursos/">
         <img height="50" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-    <img height="40" src="https://hermes.digitalinnovation.one/assets/diome/logo.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://web.dio.me/users/felipe_crema_ribeiro?tab=achievements">
+        <img height="40" src="https://hermes.digitalinnovation.one/assets/diome/logo.svg">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
     <img height="40" src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="25" src="https://www.hackerrank.com/blog/wp-content/uploads/2018/08/hackerrank_logo.png">
