@@ -1,4 +1,4 @@
-<h2 align="center">Hey there 👋</h2>
+<h2 align="center">Sobre mim 👋</h2>
 <br>
 <p>
     Olá, meu nome é Felipe, tenho 20 anos e estou estudando programação!
@@ -8,7 +8,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=felipetega&show_icons=true&theme=radical" alt="felipetega" height="165" width="420"/>
 </p>
 <hr>
-<h2 align="center">Skills &#9881;&#65039;</h2>
+<h2 align="center">Habilidades &#9881;&#65039;</h2>
 <br>
 <p align="center">
     <img height="40" src="https://devicons.railway.app/i/python.svg">
@@ -20,7 +20,7 @@
     <img height="40" src="https://devicons.railway.app/i/css3.svg">
 </p>
 <hr>
-<h2 align="center">Contact &#128222;</h2>
+<h2 align="center">Contato &#128222;</h2>
 <br>
 <p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
