@@ -1,4 +1,37 @@
-### Hi there 👋
+<h2 align="center">Hey there 👋</h2>
+<br>
+<p>
+    Olá, meu nome é Felipe, tenho 20 anos e estou estudando programação!
+</p>
+<hr>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=felipetega&show_icons=true&theme=radical" alt="felipetega" height="165" width="420"/>
+</p>
+<hr>
+<h2 align="center">Skills &#9881;&#65039;</h2>
+<br>
+<p align="center">
+    <img height="40" src="https://devicons.railway.app/i/python.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://devicons.railway.app/i/javascript.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://devicons.railway.app/i/html5.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://devicons.railway.app/i/css3.svg">
+</p>
+<hr>
+<h2 align="center">Contact &#128222;</h2>
+<br>
+<p align="center">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/felipetega">
+        <img src="https://img.shields.io/badge/felipetega-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/felipetega/">
+    </a>
+</p>
+<hr>
+
+
+
 
 <!--
 **felipetega/felipetega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
