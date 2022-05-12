@@ -23,13 +23,13 @@
 <h2 align="center">Estudos &#128214;&#65039;</h2>
 <br>
 <p align="center">
-    <img height="40" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png">
+    <img height="50" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://hermes.digitalinnovation.one/assets/diome/logo.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="30" src="https://www.hackerrank.com/blog/wp-content/uploads/2018/08/hackerrank_logo.png">
+    <img height="25" src="https://www.hackerrank.com/blog/wp-content/uploads/2018/08/hackerrank_logo.png">
 </p>
 <hr>
 <h2 align="center">Contato &#128222;</h2>
