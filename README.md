@@ -6,7 +6,6 @@
 <hr>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=felipetega&show_icons=true&theme=radical" alt="felipetega" height="165" width="420"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetega&layout=compact)](https://github.com/felipetega/github-readme-stats)"/>
 </p>
 <hr>
 <h2 align="center">Habilidades &#9881;&#65039;</h2>
