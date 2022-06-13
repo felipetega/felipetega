@@ -11,25 +11,35 @@
 <h2 align="center">Habilidades &#9881;&#65039;</h2>
 <br>
 <p align="center">
-    <img height="40" src="https://devicons.railway.app/i/python.svg">
+    <img height="40" src="https://devicons.railway.app/i/python.svg" title="Python">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://devicons.railway.app/i/javascript.svg">
+    <img height="40" src="https://devicons.railway.app/i/javascript.svg" title="JavaScript">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://devicons.railway.app/i/html5.svg">
+    <img height="40" src="https://devicons.railway.app/i/typescript.svg" title="TypeScript">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://devicons.railway.app/i/css3.svg">
+    <img height="40" src="https://devicons.railway.app/i/html5.svg" title="HTML">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://devicons.railway.app/i/css3.svg" title="CSS">
+</p>
+<hr>
+<h2 align="center">Bibliotecas &#128218;</h2>
+<br>
+<p align="center">
+    <img height="40" src="https://www.chartjs.org/docs/latest/favicon.ico" title="ChartJS">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="ReactJS">
 </p>
 <hr>
 <h2 align="center">Estudos &#128214;&#65039;</h2>
 <br>
 <p align="center">
-    <img height="40" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png">
+    <img height="40" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" title="Curso em Vídeo">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="30" src="https://hermes.digitalinnovation.one/assets/diome/logo.svg">
+    <img height="30" src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" title="Digital Innovation One">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="30" src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100">
+    <img height="30" src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100" title="RocketSeat">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="20" src="https://www.hackerrank.com/blog/wp-content/uploads/2018/08/hackerrank_logo.png">
+    <img height="20" src="https://www.hackerrank.com/blog/wp-content/uploads/2018/08/hackerrank_logo.png" title="HackerRank">
 </p>
 <hr>
 <h2 align="center">Contato &#128222;</h2>
