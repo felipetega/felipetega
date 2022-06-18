@@ -17,23 +17,23 @@
     <a href="https://www.python.org/">
     <img height="40" src="https://devicons.railway.app/i/python.svg" title="Python">
         </a>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.w3.org/Style/CSS/Overview.en.html">
     <img height="40" src="https://devicons.railway.app/i/mysql.svg" title="MySQL">
         </a>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.javascript.com/">
     <img height="40" src="https://devicons.railway.app/i/javascript.svg" title="JavaScript">
         </a>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.typescriptlang.org/">
     <img height="40" src="https://devicons.railway.app/i/typescript.svg" title="TypeScript">
         </a>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://html.com/">
     <img height="40" src="https://devicons.railway.app/i/html5.svg" title="HTML">
         </a>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.w3.org/Style/CSS/Overview.en.html">
     <img height="40" src="https://devicons.railway.app/i/css3.svg" title="CSS">
         </a>
@@ -45,7 +45,7 @@
     <a href="https://www.chartjs.org/">
     <img height="40" src="https://www.chartjs.org/docs/latest/favicon.ico" title="ChartJS">
         </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://pt-br.reactjs.org/">
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="ReactJS">
         </a>
@@ -55,19 +55,19 @@
 <br>
 <p align="center">
     <a href="https://www.cursoemvideo.com/">
-    <img height="40" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" title="Curso em Vídeo">
+    <img height="30" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" title="Curso em Vídeo">
         </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://web.dio.me/home">
-    <img height="30" src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" title="Digital Innovation One">
+    <img height="23" src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" title="Digital Innovation One">
         </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.rocketseat.com.br/">
-    <img height="30" src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100" title="RocketSeat">
+    <img height="23" src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100" title="RocketSeat">
         </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.hackerrank.com/dashboard">
-    <img height="20" src="https://www.hackerrank.com/blog/wp-content/uploads/2018/08/hackerrank_logo.png" title="HackerRank">
+    <img height="15" src="https://www.hackerrank.com/blog/wp-content/uploads/2018/08/hackerrank_logo.png" title="HackerRank">
         </a>
 </p>
 <hr>
