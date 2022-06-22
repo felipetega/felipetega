@@ -18,8 +18,12 @@
     <img height="40" src="https://devicons.railway.app/i/python.svg" title="Python">
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+    <a href="https://www.mysql.com/">
     <img height="40" src="https://devicons.railway.app/i/mysql.svg" title="MySQL">
+        </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.postgresql.org/">
+    <img height="40" src="https://devicons.railway.app/i/postgresql.svg" title="PostgreSQL">
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.javascript.com/">
@@ -63,7 +67,7 @@
         </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.rocketseat.com.br/">
-    <img height="23" src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100" title="RocketSeat">
+    <img height="23" src="https://www.rocketseat.com.br/assets/logos/rocketseat.svg" title="RocketSeat">
         </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.hackerrank.com/dashboard">
