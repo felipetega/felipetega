@@ -46,6 +46,10 @@
     <a href="https://www.postgresql.org/">
     <img height="40" src="https://devicons.railway.app/i/postgresql.svg" title="PostgreSQL">
         </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.mongodb.com/pt-br">
+    <img height="40" src="https://devicons.railway.app/i/mongodb.svg" title="MongoDB">
+        </a>
 </p>
 <hr>
 <h2 align="center">Bibliotecas &#128218;</h2>
