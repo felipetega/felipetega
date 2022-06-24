@@ -4,7 +4,8 @@
     Olá, meu nome é Felipe, tenho 20 anos e estou estudando programação!
 </p>
 <hr>
-<h2 align="center">Cursos Realizados (clique para acessar) &#128200;</h2>
+<h2 align="center">Cursos Realizados &#128200;</h2>
+<h6 align="center">(clique no gráfico para acessar)</h6>
 <br>
 <p align="center">
     <a href="https://felipetega.github.io/CursosRealizados-CHART.JS/">
