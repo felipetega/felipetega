@@ -1,7 +1,7 @@
 <h2 align="center">Sobre mim 👋</h2>
 <br>
 <p>
-    Olá, meu nome é Felipe, tenho 20 anos e estou estudando programação!
+    Olá, meu nome é Felipe, tenho 20 anos e estou estudando programação desde Fevereiro de 2022, atualmente, estou melhorando meus conhecimentos sobre Banco de Dados e interessado por Machine Learning!
 </p>
 <hr>
 <h2 align="center">Cursos Realizados &#128200;</h2>
