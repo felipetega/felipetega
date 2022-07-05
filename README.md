@@ -8,7 +8,6 @@
 <p><a href="https://github.com/felipetega/DIO.ME/tree/git/Spread%20Fullstack%20Developer/AULAS/REACT/react-redux-talk-main/1.4-example">- React Redux 1.4</a></p>
 <hr>
 <h2 align="center">Linguagens &#9881;&#65039;</h2>
-
 <p align="center">
         <a href="https://www.python.org/">
     <img height="40" src="https://devicons.railway.app/i/python.svg" title="Python">
@@ -30,9 +29,7 @@
     <img height="40" src="https://devicons.railway.app/i/css3.svg" title="CSS">
         </a>
 </p>
-<hr>
 <h2 align="center">Banco de Dados &#129518;</h2>
-
 <p align="center">
     <a href="https://www.mysql.com/">
     <img height="40" src="https://devicons.railway.app/i/mysql.svg" title="MySQL">
@@ -46,7 +43,6 @@
     <img height="40" src="https://devicons.railway.app/i/mongodb.svg" title="MongoDB">
         </a>
 </p>
-<hr>
 <h2 align="center">Bibliotecas &#128218;</h2>
 
 <p align="center">
