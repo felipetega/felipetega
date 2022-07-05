@@ -1,8 +1,17 @@
 <h2 align="center">Sobre mim 👋</h2>
 <br>
 <p>
-    Olá, meu nome é Felipe, tenho 20 anos e estou estudando programação desde Fevereiro de 2022, atualmente, estou melhorando meus conhecimentos sobre Banco de Dados e interessado por Machine Learning!
+    Olá, meu nome é Felipe, tenho 20 anos e estou estudando programação desde Fevereiro de 2022, atualmente, estou estudando Banco de Dados, React e interessado por Machine Learning!
 </p>
+<hr>
+<h2 align="center">Projetos &#9989;</h2>
+<h3>React <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="ReactJS"></h3>
+
+<p><a href="https://github.com/felipetega/DIO.ME/tree/git/Spread%20Fullstack%20Developer/AULAS/REACT/github-api-interface-main">- Github Interface</a></p>
+<p><a href="https://github.com/felipetega/DIO.ME/tree/git/Spread%20Fullstack%20Developer/AULAS/REACT/react-redux-talk-main/1.4-example">- React Redux 1.4</a></p>
+
+
+<br>
 <hr>
 <h2 align="center">Estudos &#128214;&#65039;</h2>
 <h6 align="center">(clique para acessar)</h6>
@@ -34,7 +43,6 @@
 </p>
 <hr>
 <h2 align="center">Linguagens &#9881;&#65039;</h2>
-<h6 align="center">(Programação, marcação e design gráfico)</h6>
 <br>
 <p align="center">
         <a href="https://www.python.org/">
