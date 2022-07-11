@@ -4,18 +4,17 @@
 
 <hr>
 <h2 align="center">Projetos &#9989;</h2>
-<h3>
-React
+<h4>
+Python+Pandas:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Python
-</h3>
+
+</h4>
 <p>
-<a href="https://github.com/felipetega/DIO.ME/tree/git/Spread%20Fullstack%20Developer/AULAS/REACT/github-api-interface-main">- Github Interface</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/felipetega/EmailAndReport">- Email and Report</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p>
-<a href="https://github.com/felipetega/DIO.ME/tree/git/Spread%20Fullstack%20Developer/AULAS/REACT/react-redux-talk-main/1.4-example">- React Redux 1.4</a>
+
 </p>
 
 <hr>
@@ -29,10 +28,6 @@ Python
     <img height="40" src="https://devicons.railway.app/i/javascript.svg" title="JavaScript">
         </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.typescriptlang.org/">
-    <img height="40" src="https://devicons.railway.app/i/typescript.svg" title="TypeScript">
-        </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://html.com/">
     <img height="40" src="https://devicons.railway.app/i/html5.svg" title="HTML">
         </a>
@@ -41,31 +36,24 @@ Python
     <img height="40" src="https://devicons.railway.app/i/css3.svg" title="CSS">
         </a>
 </p>
-<h2 align="center">Banco de Dados &#129518;</h2>
+
+<h2 align="center">Tools &#128295;</h2>
 <p align="center">
+    <a href="https://pandas.pydata.org/">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.chartjs.org/">
+    <img height="40" src="https://www.chartjs.org/docs/latest/favicon.ico" title="ChartJS" title="ChartJS">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.mysql.com/">
     <img height="40" src="https://devicons.railway.app/i/mysql.svg" title="MySQL">
         </a>
-            &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.postgresql.org/">
-    <img height="40" src="https://devicons.railway.app/i/postgresql.svg" title="PostgreSQL">
-        </a>
-            &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mongodb.com/pt-br">
-    <img height="40" src="https://devicons.railway.app/i/mongodb.svg" title="MongoDB">
-        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="40" src="https://lh3.googleusercontent.com/3NxsKGNoTty7fXIv90VIgpaevPXwtrgY4QjyTYGajgXxI5PWEOJzOdiYJOpfM3QJFiBwS-REWC7Pzj_-YapaNuKvxkc=w128-h128-e365-rj-sc0x00ffffff" title="Excel">
 </p>
-<h2 align="center">Bibliotecas &#128218;</h2>
 
-<p align="center">
-    <a href="https://www.chartjs.org/">
-    <img height="40" src="https://www.chartjs.org/docs/latest/favicon.ico" title="ChartJS">
-        </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://pt-br.reactjs.org/">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="ReactJS">
-        </a>
-</p>
 <hr>
 <h2 align="center">Estudos &#128214;&#65039;</h2>
 <h6 align="center">(clique para acessar)</h6>
