@@ -5,18 +5,18 @@
 <hr>
 <h2 align="center">Projetos &#9989;</h2>
 <h4>
-Python+Pandas:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Python:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 JavaScript+ChartJS
 </h4>
+
 <p>
 <a href="https://github.com/felipetega/EmailAndReport">- Email and Report</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/felipetega/CursosRealizados-CHART.JS">- Cursos Realizados</a>
-
 </p>
 <p>
-
+<a href="https://github.com/felipetega/ProgessoCodeWars">- Progresso CodeWars</a>
 </p>
 
 <hr>
@@ -44,6 +44,10 @@ JavaScript+ChartJS
 <p align="center">
     <a href="https://pandas.pydata.org/">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://matplotlib.org/">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" title="Matplotlib">
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.chartjs.org/">
