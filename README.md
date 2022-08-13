@@ -1,6 +1,6 @@
 <hr>
 <h2 align="center">Sobre mim 👋</h2>
-<p>Olá, meu nome é Felipe, tenho 20 anos e estou estudando programação desde Fevereiro de 2022, atualmente, estou estudando e desenvolvendo mais projetos para portfólio, envolvendo as Libs mais usadas de Python, Banco de Dados, e talvez Machine Learning</p>
+<p>Olá, meu nome é Felipe, tenho 20 anos e estou cursando em Matão Desenvolvimento de Software Multiplataforma na Fatec! </p>
 
 <hr>
 <h2 align="center">Projetos &#9989;</h2>
