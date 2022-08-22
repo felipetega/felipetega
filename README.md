@@ -1,6 +1,6 @@
 <hr>
 <h2 align="center">Sobre mim 👋</h2>
-<p>Olá, meu nome é Felipe, tenho 20 anos e estou cursando em Matão Desenvolvimento de Software Multiplataforma na Fatec! </p>
+<p>Olá, meu nome é Felipe, e estou cursando Desenvolvimento de Software Multiplataforma na Fatec de Matão! </p>
 
 <hr>
 <h2 align="center">Projetos &#9989;</h2>
