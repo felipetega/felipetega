@@ -17,6 +17,8 @@ JavaScript+ChartJS
 </p>
 <p>
 <a href="https://github.com/felipetega/ProgessoCodeWars">- Progresso CodeWars</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/felipetega/Jogo-Da-Velha">- Jogo da Velha</a>
 </p>
 
 <hr>
