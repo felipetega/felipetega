@@ -33,6 +33,10 @@ JavaScript+ChartJS
     <img height="40" src="https://devicons.railway.app/i/javascript.svg" title="JavaScript">
         </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#">
+        </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://html.com/">
     <img height="40" src="https://devicons.railway.app/i/html5.svg" title="HTML">
         </a>
