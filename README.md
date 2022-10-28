@@ -3,23 +3,7 @@
 <p>Olá, meu nome é Felipe, e estou cursando Desenvolvimento de Software Multiplataforma na Fatec de Matão! </p>
 
 <hr>
-<h2 align="center">Projetos &#9989;</h2>
-<h4>
-Python:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-JavaScript+ChartJS
-</h4>
-
-<p>
-<a href="https://github.com/felipetega/EmailAndReport">- Email and Report</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/felipetega/CursosRealizados-CHART.JS">- Cursos Realizados</a>
-</p>
-<p>
-<a href="https://github.com/felipetega/ProgessoCodeWars">- Progresso CodeWars</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/felipetega/Jogo-Da-Velha">- Jogo da Velha</a>
-</p>
+<h3 align="center"><a href="https://github.com/felipetega/Portfolio">Portfolio &#9989;</a></h2>
 
 <hr>
 <h2 align="center">Linguagens &#9881;&#65039;</h2>
