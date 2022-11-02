@@ -17,10 +17,6 @@
     <img height="40" src="https://devicons.railway.app/i/javascript.svg" title="JavaScript">
         </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#">
-        </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://html.com/">
     <img height="40" src="https://devicons.railway.app/i/html5.svg" title="HTML">
         </a>
@@ -32,6 +28,14 @@
 
 <h2 align="center">Tools &#128295;</h2>
 <p align="center">
+            <a href="https://pandas.pydata.org/">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://pandas.pydata.org/">
+    <img height="40" src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" title="Requests">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://pandas.pydata.org/">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas">
         </a>
@@ -47,8 +51,6 @@
     <a href="https://www.mysql.com/">
     <img height="40" src="https://devicons.railway.app/i/mysql.svg" title="MySQL">
         </a>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40" src="https://lh3.googleusercontent.com/3NxsKGNoTty7fXIv90VIgpaevPXwtrgY4QjyTYGajgXxI5PWEOJzOdiYJOpfM3QJFiBwS-REWC7Pzj_-YapaNuKvxkc=w128-h128-e365-rj-sc0x00ffffff" title="Excel">
 </p>
 
 <hr>
