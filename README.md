@@ -44,6 +44,10 @@
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" title="Matplotlib">
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://getbootstrap.com/">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.chartjs.org/">
     <img height="40" src="https://www.chartjs.org/docs/latest/favicon.ico" title="ChartJS" title="ChartJS">
         </a>
